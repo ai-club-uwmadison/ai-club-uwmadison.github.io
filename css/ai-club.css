@@ -46,7 +46,7 @@ canvas {
 }
 
 a {
-  font-size: 5vw;
+  a: 1.5vw;
   color: #9b0000;
 }
 
@@ -77,6 +77,11 @@ a:hover {
 
 .tagline {
   font-size: 5vw;
+}
+
+.info-bar {
+  text-decoration: underline;
+  color: #9b0000;
 }
 
 @media only screen and (min-width: 1000px) {
