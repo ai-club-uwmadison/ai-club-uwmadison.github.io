@@ -14,6 +14,11 @@ body {
 	background: none;
 }
 
+.logo-banner {
+    display: block;
+    margin: 0 auto;
+}
+
 .full {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -42,11 +47,11 @@ canvas {
 
 a {
   font-size: 5vw;
-  color: #2424b7;
+  color: #9b0000;
 }
 
 a:hover {
-  color: #2424b7;
+  color: #9b0000;
 }
 
 .navbar .navbar-collapse {
@@ -67,7 +72,7 @@ a:hover {
 .name {
   font-size: 15vw;
   font-weight: 500;
-  color: #2424b7;
+  color: #9b0000;
 }
 
 .tagline {
@@ -87,5 +92,8 @@ a:hover {
   }
   a {
     font-size: 1vw;
+  }
+  .logo-banner {
+      width: 50%;
   }
 }

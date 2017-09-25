@@ -1,8 +1,8 @@
 var canvasDots = function() {
     var canvas = document.querySelector('canvas'),
         ctx = canvas.getContext('2d'),
-        colorDot = '#331dc4',
-        color = '#2424b7';
+        colorDot = '#9b0000',
+        color = '#9b0000';
     canvas.width = window.innerWidth;
     canvas.height = window.innerHeight;
     canvas.style.display = 'block';
@@ -29,7 +29,7 @@ var canvasDots = function() {
         this.vx = -.5 + Math.random();
         this.vy = -.5 + Math.random();
 
-        this.radius = Math.random();
+        this.radius = Math.random() * 1.5;
     }
 
     Dot.prototype = {
@@ -68,7 +68,7 @@ var canvasDots = function() {
                             ctx.beginPath();
                             ctx.moveTo(i_dot.x, i_dot.y);
                             ctx.lineTo(j_dot.x, j_dot.y);
-                            ctx.stroke();
+                            ctx.stroke()*1.5;
                             ctx.closePath();
                         }
                     }
