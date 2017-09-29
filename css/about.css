@@ -4,7 +4,6 @@
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
  body {
-	background-color: #f4f4f4;
 	font-weight: normal;
 	font-style: normal; }
 div {
@@ -14,14 +13,14 @@ div {
 	margin: 50px auto; }
 h1 {
 	font-family: 'Helvetica Neue', serif;
-	color: #333; }
+	color: #9b0000; }
 p {
 	font-family: 'Helvetica Neue', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
-	color: #666; }
+	color: #333; }
 a:link, a:visited {
-		color: #666;
+		color: #9b0000;
 		text-decoration: underline; }
 a:hover {
-		color: #01c59f; }
+		color: #09b0000; }
