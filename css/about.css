@@ -25,10 +25,6 @@ p {
   color: #333;
 }
 
-ul {
-  font-size: 1.3em;
-}
-
 a:link, a:visited {
 	color: #9b0000;
 	text-decoration: underline;
@@ -50,5 +46,8 @@ a:link, a:visited {
   p {
     font-size: 1.3em;
     line-height: 1.5em;
+  }
+  ul {
+    font-size: 1.3em;
   }
 }
