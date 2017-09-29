@@ -46,7 +46,6 @@ canvas {
 }
 
 a {
-  a: 1.5vw;
   color: #9b0000;
 }
 
@@ -94,9 +93,6 @@ a:hover {
   canvas {
     height: 100%;
     width: 100%;
-  }
-  a {
-    font-size: 1vw;
   }
   .logo-banner {
       width: 50%;
