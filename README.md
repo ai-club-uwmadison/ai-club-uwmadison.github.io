@@ -5,7 +5,7 @@
 You can join AI at UW in one of the following capacities.
 
 #### Engineering Manager
-Run your own engineering team to build the project of your teams. 
+Run your own engineering team to build the project of your teams. Email us your project proposal today at aiclubuwmadison@gmail.com!
 
 #### Associate Executive
 Join the executive board, prove yourself and become a full-time executive. 
