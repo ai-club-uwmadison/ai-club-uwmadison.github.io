@@ -35,3 +35,8 @@ Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast
 <img src="./assets/Dandi_Chen.png" alt="drawing" width="100"/>
 
 [Dandi Chen](https://sites.google.com/view/dandic/home) joined AI@UW in October, 2018. She holds a computer science master degree and now is majored in biomedical data science at [UW-Madison](https://www.wisc.edu/). Prior to Madison, she worked at [Weill Cornell Medicine](https://weill.cornell.edu/) for applying machine learning algorithms to biomedical applications. Her research interests are machine learning, computer vision, natural language processing, health informatics, etc. She is leading [Skin Lesion Analysis Team](https://ai-club-uwmadison.github.io/projects_study-groups/) at AI@UW.
+
+
+<img src="./assets/jinman.jpg" alt="drawing" width="100"/>
+
+[Jinman Zhao](http://pages.cs.wisc.edu/~jz/) joined AI@UW in 2017. He is a PhD student in computer science. Interested in machine learning, programming languages and linguists, he is trying to apply deep learning to help better understand source code. He is leading [Learing Source Code Team](https://ai-club-uwmadison.github.io/projects_study-groups#learning-source-code-team).
