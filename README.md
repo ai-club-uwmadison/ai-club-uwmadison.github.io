@@ -1,8 +1,5 @@
-## Openings
-
-### Club Roles
-
-You can join AI at UW in one of the following capacities.
+# Join AI@UW!
+We have the following positions available for members to choose from. Feel free to post any questions to our Slack channel, #fyi-help, if you can't find your question on our Q&A page.
 
 #### Engineering Manager
 Run your own engineering team to build the project of your dreams. Email us your project proposal today at aiclubuwmadison@gmail.com!
