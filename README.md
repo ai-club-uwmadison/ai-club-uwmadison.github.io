@@ -43,4 +43,4 @@ Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast
 
 <img src="./assets/jinman.jpg" alt="drawing" width="100"/>
 
-[Jinman Zhao](http://pages.cs.wisc.edu/~jz/) joined AI@UW in 2017. He is a PhD student in computer science. Interested in machine learning, programming languages and linguists, he is trying to apply deep learning to help better understand source code. He is leading [Learing Source Code Team](https://ai-club-uwmadison.github.io/projects_study-groups#learning-source-code-team).
+[Jinman Zhao](http://pages.cs.wisc.edu/~jz/) joined AI@UW in 2017. He is a PhD student in computer science. Interested in machine learning, programming languages and linguists, he is trying to apply deep learning to help better understand source code. He is leading [Learning Source Code Team](https://ai-club-uwmadison.github.io/projects_study-groups#learning-source-code-team).
