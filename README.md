@@ -1,5 +1,9 @@
 ## AI@UW Leadership
 
+### President, Study Group Leader
+<img src="./assets/declan.jpg" alt="drawing" width="100"/>
+
+Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan has applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is leading the [study-tensorflow group](https://ai-club-uwmadison.github.io/projects/) this semester and is excited to help you learn more about AI!
 ### Vice President, Engineering Manager, Study Group Leader
 <img src="./assets/chris.jpg" alt="drawing" width="100"/>
 
