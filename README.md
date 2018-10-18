@@ -1,4 +1,4 @@
-## Frequent Questions & Answers
+# Frequent Questions & Answers
 If you don't see your quesiton posted here, please feel free to post to our #fyi-help channel on Slack (preferred) or email us.
 
 ### I am a Freshman in CS. Is this club for me?
@@ -11,7 +11,7 @@ Getting the basics down for both machine learning and deep learning will go a lo
 
 After that, you’re welcome to check out some of the engineering groups we have available. Prerequisites to join these groups can be found in the channel descriptions for each group as well as the projects page on our website. In general, you should contact group leaders for clarification regarding a specific group/project.
 
-## When are the meetings?
+### When are the meetings?
 Our intent is for individual groups (i.e. study groups & project groups) to set up their own regular meeting times. Contact group leaders for their meeting schedule. In addition to these meetings, we have org-wide meetings scheduled every month (see kickoff slides and the calendar on our website), socials, and occassional guest speakers that give tech talks (if you want a platform to present your ideas/research, let us know and we might be able to arrange something).
 
 ### I am an AI at UW Alumni. How do I stay in touch?
