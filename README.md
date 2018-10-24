@@ -4,6 +4,9 @@ If you don't see your quesiton posted here, please feel free to post to our #fyi
 ### I am a Freshman in CS. Is this club for me?
 Absolutely, we jumpstart freshmen into their AI careers by providing worshops, tutorials, mentorship, and learning groups.
 
+### How do I join AI@UW's official mailing list?
+ Our email list is moderated through Slack--If you'd like to receive emails regarding club events and projects, please join the Slack group (see 'Slack' tab on homepage of our website)!
+
 ### What study groups are recommended for a freshman to join?
 Getting the basics down for both machine learning and deep learning will go a long way to prepare you for more challenging engineering project work in the future. We recommend beginners in AI/ML start with *#study-ml*, *#study-dl*, and/or *#study-tensorflow* as one of the core beginner groups. In study-ml, students will work through coursera’s ML course together. In study-DL, students will learn the basics of deep learning theory (also using coursera as the primary learning material). In study-tensorflow, students will learn how to build deep neural nets using specialized software (tensorflow) with the help of our club president, Declan.
 
