@@ -17,9 +17,9 @@ Our intent is for individual groups (i.e. study groups & project groups) to set 
 ### How do I join AI@UW's official mailing list?
  Our email list is moderated through Slack--If you'd like to receive emails regarding club events and projects, please join the Slack group (see 'Slack' tab on homepage of our website)!
  
- ### How much are dues? How do I pay them?
- You can pass the dues onto a member of the executive team or venmo our head of finance, @RakshithPadmanabha.  
- Dues: 1 Semester: $15, 2 Semesters: $20, 2 Semesters + Shirt: $40
+### How much are dues? How do I pay them?  
+You can pass the dues onto a member of the executive team or venmo our head of finance, @RakshithPadmanabha.  
+Dues: 1 Semester: $15, 2 Semesters: $20, 2 Semesters + Shirt: $40
  
 ### I am an AI at UW Alumni. How do I stay in touch?
 Join our Alumni network at https://www.linkedin.com/groups/13562652/
