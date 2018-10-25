@@ -2,10 +2,10 @@
 If you don't see your quesiton posted here, please feel free to post to our #fyi-help channel on Slack (preferred) or email us.
 
 ### I am a Freshman in CS. Is this club for me?
-Absolutely, we jumpstart freshmen into their AI careers by providing worshops, tutorials, mentorship, and learning groups.
+Absolutely! We jump-start freshmen into their AI careers by providing study-groups, workshops, tutorials, and hands-on learning opportunities.
 
 ### What study groups are recommended for a freshman to join?
-Getting the basics down for both machine learning and deep learning will go a long way to prepare you for more challenging engineering project work in the future. We recommend beginners in AI/ML start with *#study-ml*, *#study-dl*, and/or *#study-tensorflow* as one of the core beginner groups. In study-ml, students will work through coursera’s ML course together. In study-DL, students will learn the basics of deep learning theory (also using coursera as the primary learning material). In study-tensorflow, students will learn how to build deep neural nets using specialized software (tensorflow) with the help of our club president, Declan.
+Getting the basics down for both machine learning and deep learning will go a long way to prepare you for more challenging engineering project work in the future. We recommend beginners in AI/ML start with *#study-ml*, *#study-dl*, and/or *#study-tensorflow* as one of the core beginner groups. In study-ml, students will work through coursera’s ML course together. In study-dl, students will learn the basics of deep learning theory (also using coursera as the primary learning material). In study-tensorflow, students will learn how to build deep neural nets using specialized software (tensorflow) with the help of our club president, Declan.
 
 *If you have to choose only one group to join as a beginner in the field, choose one of the above study groups.*
 
