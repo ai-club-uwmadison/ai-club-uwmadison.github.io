@@ -35,12 +35,17 @@ Nickolas Comeau joined AI@UW in January, 2018, and was invited to the executive 
 
 Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast, a hardcore gamer, and a soda addict. He is the engineering manager for the [Kaggle Team](https://ai-club-uwmadison.github.io/projects_study-groups/).
 
-
+### Engineering Manager
 <img src="./assets/Dandi_Chen.png" alt="drawing" width="100"/>
 
 [Dandi Chen](https://sites.google.com/view/dandic/home) joined AI@UW in October, 2018. She holds a computer science master degree and now is majored in biomedical data science at [UW-Madison](https://www.wisc.edu/). Prior to Madison, she worked at [Weill Cornell Medicine](https://weill.cornell.edu/) for applying machine learning algorithms to biomedical applications. Her research interests are machine learning, computer vision, natural language processing, health informatics, etc. She is leading [Skin Lesion Analysis Team](https://ai-club-uwmadison.github.io/projects_study-groups/) at AI@UW.
 
-
+### Engineering Manager
 <img src="./assets/jinman.jpg" alt="drawing" width="100"/>
 
 [Jinman Zhao](http://pages.cs.wisc.edu/~jz/) joined AI@UW in 2017. He is a PhD student in computer science. Interested in machine learning, programming languages and linguists, he is trying to apply deep learning to help better understand source code. He is leading [Learning Source Code Team](https://ai-club-uwmadison.github.io/projects_study-groups#learning-source-code-team).
+
+### Engineering Manager
+<img src="./assets/Andy.jpg" alt="drawing" width="100"/>
+
+Andy Leicht is currently a graduate student in the Bacteriology Masters program at UW-Madison, and joined the Artificial Intelligence UW club in fall 2018.  Systems Biology modeling in a major interest of his, along with regenerative medicine.  He is leading the [Generalized Data Mining of Science Journals](https://github.com/ai-club-uwmadison/scientific-journal-mining) in order to help chop up the elephants body of scientific knowledge into fun size bites for better digestion.
