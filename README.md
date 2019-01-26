@@ -1,13 +1,13 @@
 ## AI@UW Leadership
 
-### President, Study Group Leader
+### Co-President, Study Group Leader
 <img src="./assets/declan.jpg" alt="drawing" width="100"/>
 
 Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan has applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is leading the [study-tensorflow group](https://ai-club-uwmadison.github.io/projects/) this semester and is excited to help you learn more about AI!
-### Vice President, Engineering Manager, Study Group Leader
+### Co-President, Engineering Manager, Study Group Leader
 <img src="./assets/chris.jpg" alt="drawing" width="100"/>
 
-[Chris Endemann](https://www.linkedin.com/in/chris-endemann/) helped co-found AI@UW in 2017, and has since played a lead role in managing and directing the club's operations. His interest in AI/ML research stems primarily from his love for reverse engineering the neural algorithms controlling sensation (qualia), perception (categorization of qualia), memory processing, and decision-making behavior. Under the mentorship of [Dr. Matthew Banks](https://neuro.wisc.edu/staff/banks-matthew-i/) and [Dr. Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/), he is currently applying multivariate time-series modeling techniques to reveal the neural connectivity dynamics underlying conscious and unconscious sensory processing. In his spare time, Chris enjoys leading the [Algorithmic Trading Team](https://ai-club-uwmadison.github.io/projects_study-groups/) and the [Neuro-Inspired AGI](https://ai-club-uwmadison.github.io/projects_study-groups/) study group.
+[Chris Endemann](https://www.linkedin.com/in/chris-endemann/) helped co-found AI@UW in 2017, and has since played a lead role in managing and directing the club's operations. His interest in AI/ML research stems primarily from his love for reverse engineering the neural algorithms controlling sensation (qualia), perception (categorization of qualia), memory processing, and decision-making behavior. Under the mentorship of [Dr. Matthew Banks](https://neuro.wisc.edu/staff/banks-matthew-i/) and [Dr. Barry Van Veen](https://directory.engr.wisc.edu/ece/Faculty/Vanveen_Barry/), he is currently applying time-series modeling techniques to reveal the neural connectivity dynamics underlying conscious and unconscious sensory processing. Chris leads the [Algorithmic Trading Team](https://ai-club-uwmadison.github.io/projects_study-groups/) and the [Neuro-Inspired AGI](https://ai-club-uwmadison.github.io/projects_study-groups/) study group.
 
 
 ### Head of Engineering
