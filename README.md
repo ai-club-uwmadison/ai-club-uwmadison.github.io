@@ -48,4 +48,4 @@ Andy Leicht is currently a graduate student in the Bacteriology Masters program 
 #### Study Group Leader
 <img src="./assets/me3.jpg" alt="drawing" width="100"/>
 
-[Soham Dasgupta](https://linkedin.com/in/sohdas) is a freshman studying computer science. He joined AI@UW in the fall of 2018. He has an interest in machine learning and is looking to apply deep learning techniques in personal and portfolio projects. He is the leader of   [Machine Learning Study Group] (https://ai-club-uwmadison.github.io/projects_study-groups/#machine-learning).
+[Soham Dasgupta](https://linkedin.com/in/sohdas) is a freshman studying computer science. He joined AI@UW in the fall of 2018. He has an interest in machine learning and is looking to apply deep learning techniques in personal and portfolio projects. He is the leader of   [Machine Learning Study Group](https://ai-club-uwmadison.github.io/projects_study-groups/#machine-learning).
