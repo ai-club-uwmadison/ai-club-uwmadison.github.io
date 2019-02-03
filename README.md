@@ -10,12 +10,6 @@ Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer S
 
 [Chris Endemann](https://www.linkedin.com/in/chris-endemann/) helped co-found AI@UW in 2017, and has since played a lead role in managing and directing the club's operations. His interest in AI/ML research stems primarily from his love for reverse engineering the neural algorithms controlling sensation (qualia), perception (categorization of qualia), memory-processing, and decision-making behavior. In his spare time, Chris leads the [Algorithmic Trading Team](https://ai-club-uwmadison.github.io/projects_study-groups/) and the [Neuro-Inspired AGI](https://ai-club-uwmadison.github.io/projects_study-groups/) study group.
 
-
-#### Head of Engineering
-<img src="./assets/abhay.jpg" alt="drawing" width="100"/>
-
-[Abhay Venkatesh](http://abhayvenkatesh.com) co-founded AI@UW in April, 2017, and served as the founding President for the club. In the past, he has interned and worked with [Facebook](https://facebook.com), [Stanford](https://stanford.edu), and [MIT](https://mit.edu). Currently, he is responsible for advising the club on operations, and heading the engineering efforts of the club. He is a research assistant for [Dr. Vikas Singh](http://www.biostat.wisc.edu/~vsingh/), doing work in Computer Vision and Machine Learning.
-
 #### Head of Finance
 <img src="./assets/rakshith.jpg" alt="drawing" width="100"/>
 
