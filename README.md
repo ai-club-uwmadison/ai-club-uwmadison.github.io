@@ -44,3 +44,8 @@ Zhichun Huang joined AI@UW in October, 2017. He is a machine learning enthusiast
 <img src="./assets/Andy.jpg" alt="drawing" width="100"/>
 
 Andy Leicht is currently a graduate student in the Bacteriology Masters program at UW-Madison, and joined the Artificial Intelligence UW club in fall 2018.  Systems Biology modeling in a major interest of his, along with regenerative medicine.  He is leading the [Generalized Data Mining of Science Journals](https://ai-club-uwmadison.github.io/projects_study-groups/#generalized-data-mining-of-science-journals-team) in order to help chop up the elephants body of scientific knowledge into fun size bites for better digestion.
+
+#### Study Group Leader
+<img src="./assets/me3.jpg" alt="drawing" width="100"/>
+
+[Soham Dasgupta](https://linkedin.com/in/sohdas) is a freshman studying computer science. He joined AI@UW in the fall of 2018. He has an interest in machine learning and is looking to apply deep learning techniques in personal and portfolio projects. He is the leader of   [Machine Learning Study Group] (https://ai-club-uwmadison.github.io/projects_study-groups/#machine-learning).
