@@ -1,9 +1,9 @@
 ## AI@UW Leadership
 
-#### Co-President & Study Group Leader
+#### Co-President
 <img src="./assets/declan.jpg" alt="drawing" width="100"/>
 
-Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan has applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is leading the [study-tensorflow group](https://ai-club-uwmadison.github.io/projects/) this semester and is excited to help you learn more about AI!
+Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is excited to meet other students interested in AI and would love to hear more about your project ideas! Feel free to reach out to him over Slack or email idcampbell@wisc.edu.
 
 #### Co-President, Engineering Manager & Study Group Leader
 <img src="./assets/chris.jpg" alt="drawing" width="100"/>
@@ -23,7 +23,7 @@ Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer S
 #### Head of Business Development
 <img src="./assets/nickolascomeau_upright.jpg" alt="drawing" width="100"/>
 
-Nickolas Comeau joined AI@UW in January, 2018, and was invited to the executive board during the following summer. He is particularly interested in computational biology and exploring machine learning through the lense of neuroscience. His current role in the organization is to assist in the management of a learning group on Tensorflow, assist with general administrative tasks, and explore possible sponsorship and fundraising opportunities.
+Nickolas Comeau joined AI@UW in January, 2018, and was invited to the executive board during the following summer. He is particularly interested in computational biology and exploring machine learning through the lense of neuroscience. His current role in the organization is to assist in the management of the machine learning study group, assist with general administrative tasks, and explore possible sponsorship and fundraising opportunities.
 
 #### Engineering Manager
 <img src="./assets/eric.jpg" alt="drawing" width="100"/>
