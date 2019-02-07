@@ -3,7 +3,7 @@
 #### Co-President
 <img src="./assets/declan.jpg" alt="drawing" width="100"/>
 
-Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is excited to meet other students interested in AI and would love to hear more about your project ideas! Feel free to reach out to him over Slack or email idcampbell@wisc.edu.
+Declan Campbell joined AI@UW in fall 2017 and is a sophomore studying Computer Science and Neurobiology at the University of Wisconsin. In past internships, Declan applied [autoencoders](http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/) to the task of unsupervised anomaly detection and worked to identify anomalies in non-stationary time series data. Declan is excited to meet other students interested in AI and would love to hear more about your project ideas! Feel free to reach out to him over Slack or email at idcampbell@wisc.edu.
 
 #### Co-President, Engineering Manager & Study Group Leader
 <img src="./assets/chris.jpg" alt="drawing" width="100"/>
